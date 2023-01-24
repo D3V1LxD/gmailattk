@@ -1,0 +1,4 @@
+D3V1LxD
+
+pyperclip
+secure-smtplib
